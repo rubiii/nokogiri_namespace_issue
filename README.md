@@ -7,5 +7,5 @@ Verifies a difference between Nokogiri's C and Java implementations [first encou
 ```
 $ git clone git://github.com/rubiii/nokogiri_namespace_issue.git
 $ bundle install
-$ rspec geotrust_spec.rb
+$ rake
 ```
